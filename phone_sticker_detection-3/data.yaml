@@ -1,0 +1,14 @@
+names:
+- lens
+- phone
+- sticker
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: phone_sticker_detection
+  url: https://universe.roboflow.com/-k8kkf/phone_sticker_detection/dataset/3
+  version: 3
+  workspace: -k8kkf
+test: ../test/images
+train: ../train/images
+val: ../valid/images
